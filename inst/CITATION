@@ -1,0 +1,11 @@
+citHeader("To cite the 'CorrMeta' package in publications use:")
+
+citEntry(entry="article",
+         title = "CorrMeta: Fast Association Analysis for eQTL and GWAS Data with Related Samples and Correlated Phenotypes",
+         author = personList(as.person("Kai Xia"),as.person("A.A. Shabalin"),as.person("others")),
+         address  = "University of North Carolina at Chapel Hill",
+         year     = "2015",
+         journal  = "submitted",
+         url      = "http://www.bios.unc.edu/research/genomic_software/Matrix_eQTL/",
+         textVersion = "CorrMeta: Fast Association Analysis for eQTL and GWAS Data with Related Samples and Correlated Phenotypes (2015)"
+)

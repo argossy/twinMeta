@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CorrMeta is a computationally efficient alternative to a linear mixed-effects model (LMM) for twin genome-wide association study (GWAS) or expression quantitative trait loci (eQTL) analysis. Instead of analyzing all twin samples together with LMM, CorrMeta first randomly splits twin samples into two independent groups on which multiple linear regression analysis is performed separately, followed by an appropriate meta-analysis to combine the two non-independent test results. Similar idea is also extended to combine GWAS results from multiple correlated phenotypes through CorrMeta. Our approaches provide a huge leap in terms of computing performance for GWAS data with twin pairs or related subjects. 
+TwinMeta is a computationally efficient alternative to a linear mixed-effects model (LMM) for twin genome-wide association study (GWAS) or expression quantitative trait loci (eQTL) analysis. Instead of analyzing all twin samples together with LMM, TwinMeta first randomly splits twin samples into two independent groups on which multiple linear regression analysis is performed separately, followed by an appropriate meta-analysis to combine the two non-independent test results. Our approaches provide a huge leap in terms of computing performance for GWAS data with twin pairs or related subjects. 
 
 <img src="inst/image/fig1.jpg" width="900" align="center">
 

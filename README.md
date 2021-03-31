@@ -23,8 +23,8 @@ install.packages("CorrMeta_1.0.tar.gz", repos = NULL, type="source")
 ```
 
 The package includes reference manual and:
-Sample code (https://duckduckgo.com)
-Sample dataset (https://duckduckgo.com)
+Sample code (https://github.com/argossy/twinMeta/blob/master/CorrMeta_1.0.tar.gz)
+Sample dataset (https://github.com/argossy/twinMeta/blob/master/data.zip)
 
 
 ## Basic Usage
